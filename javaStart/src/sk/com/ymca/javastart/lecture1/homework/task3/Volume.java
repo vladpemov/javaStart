@@ -11,6 +11,8 @@ package sk.com.ymca.javastart.lecture1.homework.task3;
 public class Volume {
     public static void main(String[] args) {
 
+     //!!! the formulas are wrong!!!
+
         final double PI = Math.PI;
         double r = 10.0;
         double h = 12.5;
