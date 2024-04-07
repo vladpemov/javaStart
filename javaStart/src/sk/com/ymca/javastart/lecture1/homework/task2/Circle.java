@@ -15,6 +15,6 @@ public class Circle {
         final double PI = Math.PI;
         int r = 25;
 
-        System.out.println(PI * r * 2);
+        System.out.println(PI * r * 2); // the formula is wrong
     }
 }
