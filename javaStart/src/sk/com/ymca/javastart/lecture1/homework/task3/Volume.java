@@ -12,14 +12,15 @@ public class Volume {
     public static void main(String[] args) {
 
         final double PI = Math.PI;
-        double r = 10;
+        double r = 10.0;
         double h = 12.5;
 
         double V = (PI * r * 2 * h);
 
-        double S = (2 * PI * r * 2);
+        double S = (2 * PI * r * (r * h));
 
         System.out.println(V);
+
         System.out.println(S);
 
 

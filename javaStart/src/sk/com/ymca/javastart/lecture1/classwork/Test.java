@@ -20,6 +20,8 @@ public class Test {
 
         i += (short) (i + 1);
 
+        System.out.println(i);
+
 
         
 
