@@ -1,6 +1,9 @@
 package sk.com.ymca.javastart.lecture1.homework.task1;
 
 public class Main {
+
+// Change name of your class
+    
     /*
     Завдання 2
 Створіть клас Arithmetic Average.
@@ -13,6 +16,8 @@ public class Main {
 
      */
     public static void main(String[] args) {
+
+        // Change the type of variables or create another variable with another data type
 
         int a = 15;
         int b = 5;
